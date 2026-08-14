@@ -40,5 +40,14 @@
 
 let someNum = "33";
 let IntNum = parseInt(someNum);
-console.log(IntNum);
-console.log(typeof IntNum)
+// console.log(IntNum);
+// console.log(typeof IntNum)
+
+
+//  ************************ Operations  ***********************
+str1 = "hello";
+str2 = "Bharath";
+// /console.log(str1 + " " + str2); // Concatenation
+ console.log("1"+3)
+ console.log("1"+"5")
+ console.log(23+2+"9")
